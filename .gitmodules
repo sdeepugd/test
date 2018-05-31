@@ -1,0 +1,3 @@
+[submodule "MyFirstGithubRepo"]
+	path = MyFirstGithubRepo
+	url = https://github.com/sdeepugd/MyFirstGithubRepo.git
